@@ -1,5 +1,5 @@
 
-# Project Title: [Advanced Graph Learning Techniques](https://github.com/kyrran/Kaggle_BrainGraph_SuperResolution/blob/main/notebook%20(1).ipynb)
+# Project Title: [Advanced Graph Learning Techniques](https://github.com/kyrran/Graph_Learning_GNN/blob/main/AdvancedTechniquesGNN.ipynb)
 
 ## Overview
 
